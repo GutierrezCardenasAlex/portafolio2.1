@@ -9,7 +9,7 @@ docker compose up --build -d
 La web queda disponible en:
 
 ```text
-http://localhost
+http://localhost:8080
 ```
 
 ## Ver logs
