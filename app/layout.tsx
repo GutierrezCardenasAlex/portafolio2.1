@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://axissoft.dev"),
+  metadataBase: new URL("https://axissoft.dev.cybernovatech.space"),
   title: "AxisSoft Dev | Desarrollo de Software",
   description: "Desarrollo de aplicaciones web, móviles, APIs y soluciones de software modernas.",
   openGraph: {
