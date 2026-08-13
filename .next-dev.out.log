@@ -1,0 +1,34 @@
+
+> app_porfolio2.1@0.1.0 dev
+> next dev --port 3000
+
+▲ Next.js 16.3.0 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.211.1:3000
+✓ Ready in 3.4s
+✓ Running next.config.ts took 372ms
+
+✓ Generated AGENTS.md and CLAUDE.md for AI agents. Set `agentRules: false` in next.config to disable.
+○ Compiling / ...
+ GET / 200 in 25.0s (next.js: 20.1s, application-code: 4.9s)
+ GET / 200 in 1632ms (next.js: 48ms, application-code: 1584ms)
+▲ Next.js 16.3.0 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.211.1:3000
+✓ Ready in 3.9s
+✓ Running next.config.ts took 297ms
+
+ GET / 200 in 5.0s (next.js: 2.1s, application-code: 2.8s)
+ GET / 200 in 1359ms (next.js: 31ms, application-code: 1328ms)
+ GET / 200 in 1569ms (next.js: 16ms, application-code: 1553ms)
+ GET / 200 in 1354ms (next.js: 22ms, application-code: 1332ms)
+ GET / 200 in 1073ms (next.js: 31ms, application-code: 1042ms)
+ GET / 200 in 964ms (next.js: 11ms, application-code: 953ms)
+ GET / 200 in 947ms (next.js: 52ms, application-code: 896ms)
+ GET / 200 in 1650ms (next.js: 12ms, application-code: 1639ms)
+ GET / 200 in 1000ms (next.js: 18ms, application-code: 981ms)
+ GET / 200 in 1199ms (next.js: 11ms, application-code: 1188ms)
+ GET / 200 in 1222ms (next.js: 37ms, application-code: 1186ms)
+ GET / 200 in 1688ms (next.js: 26ms, application-code: 1663ms)
+ GET / 200 in 639ms (next.js: 22ms, application-code: 618ms)
+[?25h

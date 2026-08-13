@@ -1,0 +1,9 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#070B14"/>
+  <path d="M160 560C260 430 345 396 470 420C595 444 662 315 760 286C858 257 952 318 1040 180" stroke="#22D3EE" stroke-width="12" stroke-linecap="round"/>
+  <rect x="170" y="135" width="360" height="150" rx="18" fill="#111827" stroke="#2563EB"/>
+  <text x="208" y="215" fill="#F8FAFC" font-family="Inter, Arial" font-size="48" font-weight="800">Sumaj Ruta</text>
+  <text x="208" y="250" fill="#94A3B8" font-family="Inter, Arial" font-size="22">Movilidad, turismo y cultura</text>
+  <circle cx="760" cy="286" r="30" fill="#3B82F6"/>
+  <circle cx="1040" cy="180" r="24" fill="#22D3EE"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#070B14"/>
+  <rect x="120" y="120" width="960" height="520" rx="24" fill="#111827" stroke="#2563EB"/>
+  <path d="M210 500L360 326L500 414L650 238L820 360L980 210" stroke="#22D3EE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#3B82F6"><circle cx="360" cy="326" r="18"/><circle cx="650" cy="238" r="18"/><circle cx="980" cy="210" r="18"/></g>
+  <text x="170" y="205" fill="#F8FAFC" font-family="Inter, Arial" font-size="42" font-weight="800">Gestion Metalurgica</text>
+  <text x="170" y="250" fill="#94A3B8" font-family="Inter, Arial" font-size="24">Calculos y operaciones centralizadas</text>
+</svg>

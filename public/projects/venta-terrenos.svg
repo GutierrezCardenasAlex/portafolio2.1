@@ -1,0 +1,9 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#070B14"/>
+  <rect x="110" y="95" width="980" height="570" rx="24" fill="#111827" stroke="#2563EB"/>
+  <path d="M210 250L420 170L610 280L520 470L270 510Z" fill="#2563EB" fill-opacity=".24" stroke="#22D3EE" stroke-width="8"/>
+  <path d="M670 310L890 230L1000 390L860 555L650 490Z" fill="#3B82F6" fill-opacity=".18" stroke="#3B82F6" stroke-width="8"/>
+  <path d="M150 590H1050" stroke="#1E293B" stroke-width="3"/>
+  <text x="165" y="160" fill="#F8FAFC" font-family="Inter, Arial" font-size="42" font-weight="800">Venta de Terrenos</text>
+  <text x="165" y="205" fill="#94A3B8" font-family="Inter, Arial" font-size="24">Lotes georreferenciados</text>
+</svg>

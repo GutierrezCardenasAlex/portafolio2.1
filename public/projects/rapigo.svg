@@ -1,0 +1,23 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#070B14"/>
+  <circle cx="910" cy="190" r="250" fill="#2563EB" fill-opacity=".12"/>
+  <circle cx="360" cy="565" r="260" fill="#22D3EE" fill-opacity=".08"/>
+  <path d="M92 148H1110M92 258H1110M92 368H1110M92 478H1110M92 588H1110" stroke="#1E293B" stroke-opacity=".65"/>
+  <path d="M210 90V660M380 90V660M550 90V660M720 90V660M890 90V660M1060 90V660" stroke="#1E293B" stroke-opacity=".55"/>
+  <path d="M165 560C260 410 364 376 496 410C628 444 690 286 825 254C914 233 986 259 1060 174" stroke="#2563EB" stroke-width="20" stroke-linecap="round"/>
+  <path d="M165 560C260 410 364 376 496 410C628 444 690 286 825 254C914 233 986 259 1060 174" stroke="#22D3EE" stroke-width="5" stroke-dasharray="22 26" stroke-linecap="round"/>
+  <rect x="690" y="112" width="260" height="500" rx="42" fill="#0D1424" stroke="#334155" stroke-width="8"/>
+  <rect x="715" y="158" width="210" height="384" rx="28" fill="#111827"/>
+  <path d="M740 440C783 370 830 354 884 388" stroke="#3B82F6" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="815" cy="354" r="26" fill="#22D3EE"/>
+  <path d="M815 330C802 330 792 340 792 353C792 371 815 397 815 397C815 397 838 371 838 353C838 340 828 330 815 330Z" fill="#F8FAFC"/>
+  <circle cx="815" cy="353" r="7" fill="#2563EB"/>
+  <rect x="748" y="185" width="146" height="42" rx="21" fill="#070B14"/>
+  <text x="778" y="213" fill="#22D3EE" font-family="Inter, Arial" font-size="20" font-weight="800">LIVE TRIP</text>
+  <rect x="120" y="100" width="408" height="156" rx="26" fill="#111827" stroke="#2563EB"/>
+  <text x="158" y="178" fill="#F8FAFC" font-family="Inter, Arial" font-size="56" font-weight="800">RAPIGO</text>
+  <text x="158" y="220" fill="#94A3B8" font-family="Inter, Arial" font-size="26">Movilidad en tiempo real</text>
+  <circle cx="496" cy="410" r="28" fill="#3B82F6"/>
+  <circle cx="1060" cy="174" r="24" fill="#22D3EE"/>
+  <path d="M493 393L516 445L468 421L493 393Z" fill="#F8FAFC"/>
+</svg>
